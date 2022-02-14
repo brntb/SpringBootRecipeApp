@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e98e1e14-7dbe-48d9-918b-64f6170bb677" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slinger/recipeapp/commands/RecipeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slinger/recipeapp/commands/RecipeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slinger/recipeapp/controllers/RecipeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slinger/recipeapp/controllers/RecipeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/recipe/recipe-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/recipe/recipe-form.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c9ecE2mO8UGphl0ZIBVdFIxnRv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.slinger.recipeapp.services" />
+      <recent name="com.slinger.recipeapp.controllers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.slinger.recipeapp.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootRecipeApplication">
+    <configuration name="ImageControllerTest.showUploadImageForm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="recipeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slinger.recipeapp.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.slinger.recipeapp.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.slinger.recipeapp.controllers.ImageControllerTest" />
+      <option name="METHOD_NAME" value="showUploadImageForm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageServiceImplTest.saveImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="recipeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slinger.recipeapp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.slinger.recipeapp.services" />
+      <option name="MAIN_CLASS_NAME" value="com.slinger.recipeapp.services.ImageServiceImplTest" />
+      <option name="METHOD_NAME" value="saveImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.slinger in recipeapp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="recipeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slinger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.slinger" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.slinger.recipeapp in recipeapp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="recipeapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slinger.recipeapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.slinger.recipeapp" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRecipeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="recipeapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.slinger.recipeapp.SpringBootRecipeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImageControllerTest.showUploadImageForm" />
+        <item itemvalue="JUnit.com.slinger in recipeapp" />
+        <item itemvalue="JUnit.com.slinger.recipeapp in recipeapp" />
+        <item itemvalue="JUnit.com.slinger in recipeapp" />
+        <item itemvalue="JUnit.ImageControllerTest.showUploadImageForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e98e1e14-7dbe-48d9-918b-64f6170bb677" name="Default Changelist" comment="" />
+      <created>1589945313603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589945313603</updated>
+      <workItem from="1589945319478" duration="669000" />
+      <workItem from="1589982649921" duration="123000" />
+      <workItem from="1590073403530" duration="11633000" />
+      <workItem from="1590110663834" duration="2553000" />
+      <workItem from="1590163107174" duration="991000" />
+      <workItem from="1590412203199" duration="444000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1589982715436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589982715436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created image-form.html. closes #44">
+      <created>1590074654205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590074654205</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created ImageController to show image-form.html. closes #45">
+      <created>1590076034301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590076034301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added functionality to upload an image. closes #24">
+      <created>1590080432952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590080432952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed image-form so you can't upload empty images. closes #46">
+      <created>1590088759758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590088759758</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="created image-form.html. closes #44" />
+    <MESSAGE value="Created ImageController to show image-form.html. closes #45" />
+    <MESSAGE value="Added functionality to upload an image. closes #24" />
+    <MESSAGE value="fixed image-form so you can't upload empty images. closes #46" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed image-form so you can't upload empty images. closes #46" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2369" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1590077478158">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="244" key="#com.intellij.ide.util.MemberChooser/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590077478158" />
+    <state x="1964" y="0" width="1181" height="1054" key="CommitChangelistDialog2" timestamp="1590088759685">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="303" y="27" width="984" height="873" key="CommitChangelistDialog2/0.27.1600.873@0.27.1600.873" timestamp="1589982715270" />
+    <state x="1964" y="0" width="1181" height="1054" key="CommitChangelistDialog2/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590088759685" />
+    <state width="1872" height="339" key="GridCell.Tab.0.bottom" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1590165038570" />
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.0.bottom/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.0.center" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1590165038569" />
+    <state width="1878" height="273" key="GridCell.Tab.0.center/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.0.center/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.0.left" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1590165038567" />
+    <state width="1878" height="273" key="GridCell.Tab.0.left/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.0.left/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.0.right" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1590165038570" />
+    <state width="1878" height="273" key="GridCell.Tab.0.right/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.0.right/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.1.bottom" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.1.bottom/0.27.1600.873@0.27.1600.873" timestamp="1590165038572" />
+    <state width="1878" height="273" key="GridCell.Tab.1.bottom/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675895" />
+    <state width="1872" height="339" key="GridCell.Tab.1.bottom/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.1.center" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.1.center/0.27.1600.873@0.27.1600.873" timestamp="1590165038571" />
+    <state width="1878" height="273" key="GridCell.Tab.1.center/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.1.center/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.1.left" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.1.left/0.27.1600.873@0.27.1600.873" timestamp="1590165038571" />
+    <state width="1878" height="273" key="GridCell.Tab.1.left/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.1.left/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state width="1872" height="339" key="GridCell.Tab.1.right" timestamp="1590412646376">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1552" height="268" key="GridCell.Tab.1.right/0.27.1600.873@0.27.1600.873" timestamp="1590165038571" />
+    <state width="1878" height="273" key="GridCell.Tab.1.right/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590089675894" />
+    <state width="1872" height="339" key="GridCell.Tab.1.right/1600.0.1920.1080/0.113.1600.900@1600.0.1920.1080" timestamp="1590412646376" />
+    <state x="2074" y="213" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1590088761022">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="395" y="199" width="800" height="530" key="Vcs.Push.Dialog.v2/0.27.1600.873@0.27.1600.873" timestamp="1589982745523" />
+    <state x="2074" y="213" key="Vcs.Push.Dialog.v2/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590088761022" />
+    <state x="2295" y="348" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590078205224">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2295" y="348" key="com.intellij.testIntegration.createTest.CreateTestDialog/1600.0.1920.1080/0.0.1600.900@1600.0.1920.1080" timestamp="1590078205224" />
+    <state x="515" y="135" width="560" height="659" key="git4idea.branch.GitSmartOperationDialog" timestamp="1589945913756">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="515" y="135" width="560" height="659" key="git4idea.branch.GitSmartOperationDialog/0.27.1600.873@0.27.1600.873" timestamp="1589945913756" />
+  </component>
+</project>
